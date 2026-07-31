@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://github.com/majidbmk/fanichii/blob/main/img/s1.png?raw=true" width="45%" />
   &nbsp;&nbsp;
-  <img src="https://github.com/majidbmk/fanichii/blob/main/img/s1.png?raw=true" width="45%" />
+  <img src="https://github.com/majidbmk/fanichii/blob/main/img/s2.png?raw=true" width="45%" />
 </p>
 
 کارفرما میتوانند با توجه به سوابق کاشی کار و رزومه دریافتی ، آن را استخدام یا رد کند .
