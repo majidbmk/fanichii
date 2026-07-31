@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="fanichii" width="100%" />
+  <img src="https://github.com/majidbmk/fanichii/blob/main/img/s1.png?raw=true" alt="fanichii" width="100%" />
 </p>
 
 <h1 align="center">فنی‌چی</h1>
@@ -41,9 +41,9 @@
 همزمان با ارسال درخواست ، رزومه کاشی کار به کارفرما ارسال میگردد .  
 
 <p align="center">
-  <img src="" width="45%" />
+  <img src="https://github.com/majidbmk/fanichii/blob/main/img/s1.png?raw=true" width="45%" />
   &nbsp;&nbsp;
-  <img src="" width="45%" />
+  <img src="https://github.com/majidbmk/fanichii/blob/main/img/s1.png?raw=true" width="45%" />
 </p>
 
 کارفرما میتوانند با توجه به سوابق کاشی کار و رزومه دریافتی ، آن را استخدام یا رد کند .
