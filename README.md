@@ -38,8 +38,7 @@
 هر کاربر که به عنوان کاشی کار در سایت ثبت نام میکند ، رزومه و فعالیت های کاشیکاری خودرا در
 پروفایل خود درج میکند .
 سپس هر کاشی کار میتواند آگهی های منتشر شده را رصد کند و درخواست خود را به کارفرما ارسال نماید
-همزمان با ارسال درخواست ، رزومه کاشی کار به کارفرما ارسال میگردد .
-
+همزمان با ارسال درخواست ، رزومه کاشی کار به کارفرما ارسال میگردد .  
 
 <p align="center">
   <img src="" width="45%" />
@@ -54,19 +53,17 @@
 نمایند و متصدی سایت مدارک را تایید یا رد کند .
 <br/>
 
-## 👨‍💻 Developer Information
+
+
+## source code
+
+> [!WARNING]
+> کد منبع (سورس کد) این پروژه محرمانه بوده و به دلیل رعایت حقوق مالکیت کارفرما، امکان دسترسی عمومی به آن وجود ندارد.
 
 <p align="center">
-  <b>Majid Barmaki</b><br/>
-  Backend Developer
+  <a href="https://github.com/itsMajid-dev/fanichii" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="mailto:itsmajid.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/itsmajid-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
-</p>
